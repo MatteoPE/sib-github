@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sib-github/static/css/main.52f81667.chunk.css",
+    "main.js": "/sib-github/static/js/main.a03d0bcb.chunk.js",
+    "main.js.map": "/sib-github/static/js/main.a03d0bcb.chunk.js.map",
+    "runtime-main.js": "/sib-github/static/js/runtime-main.92bdc529.js",
+    "runtime-main.js.map": "/sib-github/static/js/runtime-main.92bdc529.js.map",
+    "static/js/2.a593da2d.chunk.js": "/sib-github/static/js/2.a593da2d.chunk.js",
+    "static/js/2.a593da2d.chunk.js.map": "/sib-github/static/js/2.a593da2d.chunk.js.map",
+    "index.html": "/sib-github/index.html",
+    "precache-manifest.181711d8e143faecb4bfb1fb1bd662e4.js": "/sib-github/precache-manifest.181711d8e143faecb4bfb1fb1bd662e4.js",
+    "service-worker.js": "/sib-github/service-worker.js",
+    "static/css/main.52f81667.chunk.css.map": "/sib-github/static/css/main.52f81667.chunk.css.map",
+    "static/js/2.a593da2d.chunk.js.LICENSE": "/sib-github/static/js/2.a593da2d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92bdc529.js",
+    "static/js/2.a593da2d.chunk.js",
+    "static/css/main.52f81667.chunk.css",
+    "static/js/main.a03d0bcb.chunk.js"
+  ]
+}
